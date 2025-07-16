@@ -1,25 +1,35 @@
 ## ¡Hola! Soy Adrián Mejía 👋 
 
-Soy Ingeniero Físico apasionado por el Machine Learning y el Deep Learning aplicado al análisis de datos para la resolución de cualquier tipo de problemas. Actualmente me encuentro construyendo proyectos aplicados en ciencia de datos y aprendiendo los fundamentos teóricos en los que los modelos de IA se fundamentan. Como Ingeniero físico, me encanta aplicar estos modelos para la resolución de problemas interdisciplinarios de la ciencia.  
+Soy Ingeniero Físico apasionado por el **Machine Learning** y el **Deep Learning**, aplicados tanto al análisis de datos como a la resolución de problemas en diversos campos. Actualmente estoy desarrollando proyectos en ciencia de datos mientras estudio los fundamentos teóricos que sustentan los modelos de inteligencia artificial. 
 
-**Lenguajes y tecnologías que uso:**
-- 🐍 Python (NumPy, Pandas, Scikit-Learn, Matplotlib, , Scipy, TensorFlow, Keras)
+Mi formación en física me ha brindado una sólida base matemática y computacional, lo que me permite abordar problemas de manera estructurada y rigurosa. Me interesa especialmente la **computación científica**, pero también disfruto trabajar en **problemas aplicados a negocio, industria y tecnología en general**.
+
+---
+
+### 🧰 Lenguajes y tecnologías que uso
+- 🐍 Python (NumPy, Pandas, Scikit-Learn, Matplotlib, SciPy, TensorFlow, Keras)
 - 💻 MATLAB
 - 📂 Git & GitHub
-- ⌨ Anaconda, Spyder, Jupyter Notebooks
+- ⌨️ Jupyter Notebooks, Anaconda, Spyder
 - 📚 LaTeX
+
+---
 
 ### 🧪 Proyectos destacados
 
 - [🔍 Churn Prediction](https://github.com/tuusuario/churn-prediction)  
-  Clasificación de abandono de clientes utilizando modelos de Machine Learning tradicionales y análisis exploratorio detallado (En construcción).
+  Modelo de clasificación de abandono de clientes usando técnicas de Machine Learning clásico y análisis exploratorio detallado. *(En desarrollo)*
 
 - [🌸 Iris Classifier desde cero](https://github.com/tuusuario/iris-classifier)  
-  Implementación propia de técnicas como PCA, LDA, KNN, métricas de evaluación y más, usando el dataset de Iris. Enfocado en fundamentos matemáticos (En construcción).
+  Implementación propia de técnicas como PCA, LDA, KNN y métricas de evaluación, con enfoque en fundamentos matemáticos. *(En desarrollo)*
 
-- [📡 Optical Vortex Charge Classification](https://github.com/tuusuario/optical-vortex-cnn) 
-  Proyecto de tesis donde entrené una CNN para identificar la carga topológica de haces ópticos perturbados por turbulencia (En construcción).
+- [📡 Optical Vortex Charge Classification](https://github.com/tuusuario/optical-vortex-cnn)  
+  Proyecto de tesis donde entrené una CNN para identificar la carga topológica de haces ópticos perturbados por turbulencia atmosférica. *(En desarrollo)*
+
+---
 
 ### 🤝 Conectemos
-- 💬 Me interesa colaborar en proyectos de ciencia de datos, ML, DL o computación científica.
+
+- 💬 Estoy abierto a colaborar en proyectos de ciencia de datos, machine learning, deep learning o computación científica.
 - 📫 Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/adrejia/) o abrir un issue en alguno de mis proyectos.
+
