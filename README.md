@@ -23,5 +23,3 @@ Soy Ingeniero Físico apasionado por el Machine Learning y el Deep Learning apli
 ### 🤝 Conectemos
 - 💬 Me interesa colaborar en proyectos de ciencia de datos, ML, DL o computación científica.
 - 📫 Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/adrejia/) o abrir un issue en alguno de mis proyectos.
-
-![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=default)
