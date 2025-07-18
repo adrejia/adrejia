@@ -17,7 +17,7 @@ Mi formación en física me ha brindado una sólida base matemática y computaci
 
 ### 🧪 Proyectos destacados
 
-- [🔍 Churn Prediction](https://github.com/tuusuario/churn-prediction)  
+- [🔍 Churn Prediction](https://github.com/adrejia/churn-prediction)
   Modelo de clasificación de abandono de clientes usando técnicas de Machine Learning clásico y análisis exploratorio detallado. *(En desarrollo)*
 
 - [🌸 Iris Classifier desde cero](https://github.com/tuusuario/iris-classifier)  
