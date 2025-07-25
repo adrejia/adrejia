@@ -2,12 +2,12 @@
 
 Soy Ingeniero Físico apasionado por el **Machine Learning** y el **Deep Learning**, aplicados tanto al análisis de datos como a la resolución de problemas en diversos campos. Actualmente estoy desarrollando proyectos en ciencia de datos mientras estudio los fundamentos teóricos que sustentan los modelos de inteligencia artificial. 
 
-Mi formación en física me ha brindado una sólida base matemática y computacional, lo que me permite abordar problemas de manera estructurada y rigurosa. Me interesa especialmente la **computación científica**, pero también disfruto trabajar en **problemas aplicados a negocio, industria y tecnología en general**.
+Mi formación en física me ha proporcionado una sólida base matemática y computacional, lo que me permite abordar problemas de manera estructurada y rigurosa. Me interesa especialmente la *computación científica*, pero también disfruto trabajar en **problemas aplicados a negocio, industria y tecnología en general**.
 
 ---
 
 ### 🧰 Lenguajes y tecnologías que uso
-- 🐍 Python (NumPy, Pandas, Scikit-Learn, Matplotlib, SciPy, TensorFlow, Keras)
+- 🐍 Python (NumPy, Matplotlib, Pandas, SciPy, Scikit-Learn, TensorFlow, Keras)
 - 💻 MATLAB
 - 📂 Git & GitHub
 - ⌨️ Jupyter Notebooks, Anaconda, Spyder
