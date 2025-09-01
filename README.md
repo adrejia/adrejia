@@ -18,7 +18,7 @@ Mi formación en física me ha proporcionado una sólida base matemática y comp
 ### 🧪 Proyectos destacados
 
 - [🔍 Churn Prediction](https://github.com/adrejia/churn-prediction)
-  Modelo de clasificación de abandono de clientes usando técnicas de Machine Learning clásico y análisis exploratorio detallado. *(En desarrollo)*
+  Modelo de clasificación de abandono de clientes usando técnicas de Machine Learning clásico y análisis exploratorio detallado.
 
 - [🌸 Iris Classifier desde cero](https://github.com/tuusuario/iris-classifier)  
   Implementación propia de técnicas como PCA, LDA, KNN y métricas de evaluación, con enfoque en fundamentos matemáticos. *(En desarrollo)*
